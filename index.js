@@ -394,7 +394,7 @@ async function joinWhatsAppGroup(Matrix) {
         if ('254112192119') {
             try {
                 const successMessage = {
-                    image: { url: "https://i.ibb.co/RR5sPHC/caseyrhodes.jpg" }, 
+                    image: { url: "https://files.catbox.moe/39iv31.jpg" }, 
                     caption: `*𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐒𝐔𝐂𝐂𝐄𝐒𝐅𝐔𝐋𝐋𝐘 🎉✅*`,
                     contextInfo: {
                         forwardingScore: 5,
@@ -407,7 +407,7 @@ async function joinWhatsAppGroup(Matrix) {
                     }
                 };
                 
-                await Matrix.sendMessage('254112192119@s.whatsapp.net', successMessage);
+                await Matrix.sendMessage('254105521300@s.whatsapp.net', successMessage);
             } catch (error) {
                 // Silent error handling
             }
