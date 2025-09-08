@@ -5,12 +5,12 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/GURUH-TECH/CRYPTIX-XMD"><img title="Author" src="https://img.shields.io/badge/CASEYRHODES-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VbAaqOjLCoX3uQD1Ns3y"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254105521300"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/GURUH-TECH/CRYPTIX-XMD"><img title="Author" src="https://img.shields.io/badge/GURU-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VbAaqOjLCoX3uQD1Ns3y"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254105521300"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 
  <p align="center">
   <a href="https://kg-site-support.vercel.app/">
-    <img src="https://img.shields.io/badge/CASEYRHODES WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
+    <img src="https://img.shields.io/badge/OFFICIAL GURU-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
   </a>
    
 <p align="center">
