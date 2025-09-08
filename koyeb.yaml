@@ -1,6 +1,6 @@
-name: jawad-md
+name: CRYPTIX-MD
 services:
-  - name: jawad-md-service
+  - name: CRYPTIX-MD services
     type: web
     ports:
       - 5000
