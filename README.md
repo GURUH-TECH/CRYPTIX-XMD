@@ -14,16 +14,16 @@
   </a>
    
 <p align="center">
-<a href="https://github.com/GURUH-TECH/CRYPTIX-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/caseyweb/NHEZHO-MD?color=white&style=flat-square"></a>
-<a href="https://github.com/caseyweb/NHEZHO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/caseyweb/NHEZHO-MD?color=yellow&style=flat-square"></a>
-<a href="https://github.com/caseyweb/NHEZHO-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/caseyweb/NHEZHO-MD?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/caseyweb/NHEZHO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/caseyweb/NHEZHO-MDA/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-        <a href = ""><img alt="CASEYRHODES Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
+<a href="https://github.com/GURUH-TECH/CRYPTIX-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/GURUH-TECH/CRYPTIX-MD?color=white&style=flat-square"></a>
+<a href="https://github.com/GURUH-TECH/CRYPTIX-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/caseyweb/NHEZHO-MD?color=yellow&style=flat-square"></a>
+<a href="https://github.com/GURUH-TECH/CRYPTIX-XMD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/GURUH-TECH/CRYPTIX-MD?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/GURUH-TECH/CRYPTIX-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/GURUH-TECH/CRYPTIX-XMDA/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+        <a href = ""><img alt="GURU Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/caseyweb/NHEZHO-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/GURUH-TECH/CRYPTIX-XMD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 #### 𝐒𝐄𝐓𝐔𝐏
