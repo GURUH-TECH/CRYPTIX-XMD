@@ -1,11 +1,11 @@
 
 {
-    "bot-name": "CASEYRHODES XMD",
+    "bot-name": "CRYPTIX-MD",
     "description": "Whiskey Sockets Baileys Whatsapp bot By Mr Caseyrhodes",
     "logo": "https://i.ibb.co/WNzz5RJV/lordcasey.jpg",
     "keywords": ["bot"],
     "documentation-link": "https://six391-wkgc.onrender.com",
-    "owner-verification": "caseytech666@gmail.com",
+    "owner-verification": "digitalcreator463@gmail.com",
   
     "env": {
       "SESSION_ID": {
@@ -77,27 +77,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*caseyrhodes 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
+      "value": "*CRYPTIX-MD 𝑩𝒐𝒕 𝑽𝒊𝒆𝒘𝒆𝒅 𝒀𝒐𝒖𝒓 𝑺𝒕𝒂𝒕𝒖𝒔 🦄*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "𝐌𝐫 𝐅𝐫𝐚𝐧𝐤"
+      "value": "𝐌𝐫 GURU"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "254719646303"
+      "value": "254105521308"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "CASEYRHODES-XMD"
+      "value": "CRYPTIX-MD"
 
       }, 
 
