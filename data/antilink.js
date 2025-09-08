@@ -108,7 +108,7 @@ export const handleAntilink = async (m, sock, logger, isBotAdmins, isAdmins, isC
 
                 // Send warning message first
                 await sock.sendMessage(m.key.remoteJid, {
-                    text: `\`\`\`「 Group Link Detected 」\`\`\`\n\n@${m.key.participant.split("@")[0]}, please do not share group links in this group.`,
+                    text: `\`\`\`「 Group Link Detected 」\`\`\`\n\n@${m.key.participant.split("@")[0]}, share links at your own risks.`,
                     mentions: [m.key.participant]
                 }, { quoted: m });
 
