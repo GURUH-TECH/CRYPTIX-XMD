@@ -24,11 +24,11 @@ const config = {
   MODE: process.env.MODE || "public",
   AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
-  BOT_NAME: process.env.BOT_NAME || "JINX-MD",
+  BOT_NAME: process.env.BOT_NAME || "CRYPTIX-MD",
   MENU_IMAGE: process.env.MENU_IMAGE || "https://i.ibb.co/wZ4ypv7Y/caseytech.jpg",
   DESCRIPTION: process.env.DESCRIPTION || "© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄᴀsᴇʏʀʜᴏᴅᴇs ᴛᴇᴄʜ",
   OWNER_NAME: process.env.OWNER_NAME || "Caseyrhodes",
-  OWNER_NUMBER: process.env.OWNER_NUMBER || "254112192119",
+  OWNER_NUMBER: process.env.OWNER_NUMBER || "254105521300",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
 };
