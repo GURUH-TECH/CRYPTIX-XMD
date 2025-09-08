@@ -130,7 +130,7 @@ const aiMenu = async (m, Matrix) => {
                 },
                 templateMessage: {
                   hydratedTemplate: {
-                    hydratedContentText: `*${toFancyFont(cmd)} ${cmd === 'deepimg' ? 'ɪᴍᴀɢᴇ' : 'ʀᴇsᴘᴏɴsᴇ'}*\n\n${answer}\n\n${toFancyFont('powered by Caseyrhodes xtech')}`,
+                    hydratedContentText: `*${toFancyFont(cmd)} ${cmd === 'deepimg' ? 'ɪᴍᴀɢᴇ' : 'ʀᴇsᴘᴏɴsᴇ'}*\n\n${answer}\n\n${toFancyFont('powered by guru xtech')}`,
                     hydratedFooterText: "AI Response with Image",
                     hydratedButtons: buttons,
                     templateId: "1234567890",
@@ -138,7 +138,7 @@ const aiMenu = async (m, Matrix) => {
                     imageMessage: {
                       url: imageUrl,
                       mimetype: "image/jpeg",
-                      caption: `*${toFancyFont(cmd)} ${cmd === 'deepimg' ? 'ɪᴍᴀɢᴇ' : 'ʀᴇsᴘᴏɴsᴇ'}*\n\n${answer}\n\n${toFancyFont('powered by Caseyrhodes xtech')}`,
+                      caption: `*${toFancyFont(cmd)} ${cmd === 'deepimg' ? 'ɪᴍᴀɢᴇ' : 'ʀᴇsᴘᴏɴsᴇ'}*\n\n${answer}\n\n${toFancyFont('powered by guru xtech')}`,
                     }
                   }
                 }
@@ -152,7 +152,7 @@ const aiMenu = async (m, Matrix) => {
       } else {
         // Send only text response
         await Matrix.sendMessage(m.from, { 
-          text: `*${toFancyFont(cmd)} ${cmd === 'deepimg' ? 'ɪᴍᴀɢᴇ' : 'ʀᴇsᴘᴏɴsᴇ'}*\n\n${answer}\n\n${toFancyFont('powered by Caseyrhodes xtech')}`,
+          text: `*${toFancyFont(cmd)} ${cmd === 'deepimg' ? 'ɪᴍᴀɢᴇ' : 'ʀᴇsᴘᴏɴsᴇ'}*\n\n${answer}\n\n${toFancyFont('powered by Guru xtech')}`,
           buttons,
           headerType: 1
         }, { quoted: m });
